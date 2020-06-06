@@ -16,3 +16,6 @@ cd folderName
 width: 4/12 * 100%
 
 https://autoprefixer.github.io/
+
+
+https://meyerweb.com/eric/tools/css/reset/
