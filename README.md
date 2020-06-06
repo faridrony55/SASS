@@ -13,4 +13,6 @@ cd\
 d:
 cd folderName
 
+width: 4/12 * 100%
+
 https://autoprefixer.github.io/
